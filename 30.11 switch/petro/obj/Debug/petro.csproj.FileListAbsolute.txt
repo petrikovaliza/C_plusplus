@@ -1,0 +1,7 @@
+E:\Я\Алгоритмизация работы\30.11 switch\petro\obj\Debug\petro.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\30.11 switch\petro\obj\Debug\petro.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\30.11 switch\petro\bin\Debug\petro.exe.config
+E:\Я\Алгоритмизация работы\30.11 switch\petro\bin\Debug\petro.exe
+E:\Я\Алгоритмизация работы\30.11 switch\petro\bin\Debug\petro.pdb
+E:\Я\Алгоритмизация работы\30.11 switch\petro\obj\Debug\petro.exe
+E:\Я\Алгоритмизация работы\30.11 switch\petro\obj\Debug\petro.pdb

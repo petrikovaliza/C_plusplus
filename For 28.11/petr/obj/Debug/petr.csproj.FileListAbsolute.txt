@@ -1,0 +1,7 @@
+E:\Я\Алгоритмизация работы\For 28.11\petr\bin\Debug\petr.exe.config
+E:\Я\Алгоритмизация работы\For 28.11\petr\bin\Debug\petr.exe
+E:\Я\Алгоритмизация работы\For 28.11\petr\bin\Debug\petr.pdb
+E:\Я\Алгоритмизация работы\For 28.11\petr\obj\Debug\petr.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\For 28.11\petr\obj\Debug\petr.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\For 28.11\petr\obj\Debug\petr.exe
+E:\Я\Алгоритмизация работы\For 28.11\petr\obj\Debug\petr.pdb

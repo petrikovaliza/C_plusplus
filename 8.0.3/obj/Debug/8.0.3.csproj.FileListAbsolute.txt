@@ -1,0 +1,7 @@
+E:\Готовыe работы с алг\8.0.3\bin\Debug\8.0.3.exe.config
+E:\Готовыe работы с алг\8.0.3\bin\Debug\8.0.3.exe
+E:\Готовыe работы с алг\8.0.3\bin\Debug\8.0.3.pdb
+E:\Готовыe работы с алг\8.0.3\obj\Debug\8.0.3.csproj.AssemblyReference.cache
+E:\Готовыe работы с алг\8.0.3\obj\Debug\8.0.3.csproj.CoreCompileInputs.cache
+E:\Готовыe работы с алг\8.0.3\obj\Debug\8.0.3.exe
+E:\Готовыe работы с алг\8.0.3\obj\Debug\8.0.3.pdb

@@ -1,0 +1,7 @@
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\bin\Debug\dowhile.exe.config
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\bin\Debug\dowhile.exe
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\bin\Debug\dowhile.pdb
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\obj\Debug\dowhile.exe
+E:\Я\Алгоритмизация работы\DO WHILE 05.12\dowhile\obj\Debug\dowhile.pdb

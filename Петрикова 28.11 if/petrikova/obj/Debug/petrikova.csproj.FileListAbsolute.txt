@@ -1,0 +1,7 @@
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\bin\Debug\petrikova.exe.config
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\bin\Debug\petrikova.exe
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\bin\Debug\petrikova.pdb
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\obj\Debug\petrikova.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\obj\Debug\petrikova.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\obj\Debug\petrikova.exe
+E:\Я\Алгоритмизация работы\Петрикова 28.11 if\petrikova\obj\Debug\petrikova.pdb

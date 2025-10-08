@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massiveL11", "massiveL11.csproj", "{DD8CD1FB-2663-4384-9B4F-07F8CC565232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8CD1FB-2663-4384-9B4F-07F8CC565232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8CD1FB-2663-4384-9B4F-07F8CC565232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8CD1FB-2663-4384-9B4F-07F8CC565232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8CD1FB-2663-4384-9B4F-07F8CC565232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {826BFEE2-AE0F-4EE8-B5E8-AF4349A79800}
+	EndGlobalSection
+EndGlobal

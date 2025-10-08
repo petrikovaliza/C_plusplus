@@ -1,0 +1,2 @@
+E:\Я\Алгоритмизация работы\Массивы\Massive\obj\Debug\Massive.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\Массивы\Massive\obj\Debug\Massive.csproj.CoreCompileInputs.cache

@@ -1,0 +1,32 @@
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.exe
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.deps.json
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.runtimeconfig.json
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.runtimeconfig.dev.json
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.dll
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\ref\Петрикова Кузьменко.dll
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.pdb
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.AssemblyInfo.cs
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.dll
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\ref\Петрикова Кузьменко.dll
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.pdb
+C:\Users\Student\Documents\Петрикова\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.genruntimeconfig.cache
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.exe
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.deps.json
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.runtimeconfig.json
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.runtimeconfig.dev.json
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.dll
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\ref\Петрикова Кузьменко.dll
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\bin\Debug\net5.0\Петрикова Кузьменко.pdb
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.csproj.AssemblyReference.cache
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.GeneratedMSBuildEditorConfig.editorconfig
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.AssemblyInfoInputs.cache
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.AssemblyInfo.cs
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.csproj.CoreCompileInputs.cache
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.dll
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\ref\Петрикова Кузьменко.dll
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.pdb
+W:\__Работы студентов\Тетерина Мария Васильевна\ИП-24-26б\05.11\Петрикова Кузьменко\obj\Debug\net5.0\Петрикова Кузьменко.genruntimeconfig.cache

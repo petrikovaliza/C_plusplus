@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\bin\Debug\Student.exe
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\bin\Debug\Student.pdb
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\obj\Debug\Student.exe
+C:\Users\Student\Documents\Петрикова и Кузьменко\Student\Student\obj\Debug\Student.pdb

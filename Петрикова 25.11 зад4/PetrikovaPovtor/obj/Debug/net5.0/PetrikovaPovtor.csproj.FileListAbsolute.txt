@@ -1,0 +1,16 @@
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.exe
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.deps.json
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.runtimeconfig.json
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.runtimeconfig.dev.json
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.dll
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\ref\PetrikovaPovtor.dll
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\bin\Debug\net5.0\PetrikovaPovtor.pdb
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.AssemblyInfoInputs.cache
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.AssemblyInfo.cs
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.dll
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\ref\PetrikovaPovtor.dll
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.pdb
+E:\Я\Алгоритмизация работы\25.11\PetrikovaPovtor\obj\Debug\net5.0\PetrikovaPovtor.genruntimeconfig.cache

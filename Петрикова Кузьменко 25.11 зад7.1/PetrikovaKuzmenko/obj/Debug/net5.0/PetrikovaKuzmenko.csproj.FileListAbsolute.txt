@@ -1,0 +1,16 @@
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.exe
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.deps.json
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.runtimeconfig.json
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.runtimeconfig.dev.json
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.dll
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\bin\Debug\net5.0\PetrikovaKuzmenko.pdb
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.GeneratedMSBuildEditorConfig.editorconfig
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.AssemblyInfoInputs.cache
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.AssemblyInfo.cs
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.dll
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\ref\PetrikovaKuzmenko.dll
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.pdb
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\PetrikovaKuzmenko.genruntimeconfig.cache
+E:\Я\Алгоритмизация работы\25.11\Петрикова Кузьменко 25.11 зад7.1\PetrikovaKuzmenko\obj\Debug\net5.0\refint\PetrikovaKuzmenko.dll

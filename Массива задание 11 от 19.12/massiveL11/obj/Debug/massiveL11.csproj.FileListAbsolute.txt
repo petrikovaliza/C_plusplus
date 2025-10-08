@@ -1,0 +1,7 @@
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\bin\Debug\massiveL11.exe.config
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\bin\Debug\massiveL11.exe
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\bin\Debug\massiveL11.pdb
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\obj\Debug\massiveL11.csproj.AssemblyReference.cache
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\obj\Debug\massiveL11.csproj.CoreCompileInputs.cache
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\obj\Debug\massiveL11.exe
+E:\Я\Алгоритмизация работы\Массива задание 11 от 19.12\massiveL11\obj\Debug\massiveL11.pdb

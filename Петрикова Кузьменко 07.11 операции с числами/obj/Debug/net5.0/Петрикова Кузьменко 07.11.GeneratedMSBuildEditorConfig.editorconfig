@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Петрикова_Кузьменко_07._11
+build_property.ProjectDir = F:\Алгоритмизация\С#\Петрикова Кузьменко 07.11 операции с целыми числами\Петрикова Кузьменко 07.11\

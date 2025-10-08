@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\bin\Debug\Arifmetic.exe.config
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\bin\Debug\Arifmetic.exe
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\bin\Debug\Arifmetic.pdb
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\obj\Debug\Arifmetic.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\obj\Debug\Arifmetic.exe
+C:\Users\Student\Documents\Петрикова и Кузьменко\Arifmetic\Arifmetic\obj\Debug\Arifmetic.pdb
